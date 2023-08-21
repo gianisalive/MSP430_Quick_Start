@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "msp430.h": "c",
+    "msp430c112.h": "c",
+    "msp430f2132.h": "c",
+    "iomacros.h": "c",
+    "main.h": "c",
+    "gpio.h": "c",
+    "in430.h": "c",
+    "stdint.h": "c",
+    "string.h": "c",
+    "digital_interrupt.h": "c",
+    "peripheral.h": "c",
+    "array": "c",
+    "string": "c",
+    "string_view": "c",
+    "vector": "c",
+    "common.h": "c",
+    "timer.h": "c",
+    "adc.h": "c"
+  }
+}

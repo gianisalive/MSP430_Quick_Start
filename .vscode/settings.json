@@ -17,6 +17,8 @@
     "vector": "c",
     "common.h": "c",
     "timer.h": "c",
-    "adc.h": "c"
+    "adc.h": "c",
+    "utilities.h": "c",
+    "clock.h": "c"
   }
 }

@@ -19,7 +19,7 @@ if [ "$action" == "build" ]; then
   docker build --platform linux/x86_64 -t msp430 .
 elif [ "$action" == "run" ]; then
   echo "Spinning up Docker container..."
-  docker run -it  --platform linux/x86_64 --rm msp430 /bin/bash
+  docker run -it -v "$(pwd)":/msp430 --platform linux/x86_64 --rm msp430 /bin/bash
 else
   echo "Invalid value for -r flag"
   exit 1

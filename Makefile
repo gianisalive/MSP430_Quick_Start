@@ -1,7 +1,7 @@
 # Makefile for MSP430 project
 DEVICE = msp430f2132
 
-SUPPORT_FILE_DIRECTORY = /Users/giancui/ti/msp430-gcc/include
+SUPPORT_FILE_DIRECTORY = /opt/ti/msp430-gcc/include
 # Compiler
 CC = msp430-elf-gcc
 CC_HEX = msp430-elf-objcopy

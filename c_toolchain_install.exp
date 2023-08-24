@@ -1,0 +1,4 @@
+spawn ./msp430-gcc-full-linux-x64-installer-9.3.1.2.run
+expect "Installation Directory" { send "/opt/ti/msp430-gcc\r" }
+expect "Do you want to continue?" { send "Y\r" }
+expect eof

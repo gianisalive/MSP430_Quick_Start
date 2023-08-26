@@ -19,5 +19,5 @@ Run `make`. The **Makefile** file is setup to compile **C**. Different compilers
 ## 5. Flash Firmware
 After the code is compiled, hex file `output.hex` can be uploaded via **UniFlash**.
 
-## Additional Question
+## Additional Questions
 gianisalive@gmail.com - I'm friendly `:)`

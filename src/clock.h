@@ -1,5 +1,5 @@
-#ifndef __NECTAR_CLOCK_
-#define __NECTAR_CLOCK_
+#ifndef __CLOCK_
+#define __CLOCK_
 
 #include "common.h"
 

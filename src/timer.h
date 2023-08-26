@@ -1,5 +1,5 @@
-#ifndef __NECTAR_TIMER_
-#define __NECTAR_TIMER_
+#ifndef __TIMER_
+#define __TIMER_
 
 #include "common.h"
 

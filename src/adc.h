@@ -1,5 +1,5 @@
-#ifndef __NECTAR_ADC_
-#define __NECTAR_ADC_
+#ifndef __ADC_
+#define __ADC_
 #include "common.h"
 /****************************************************
  * Clock Module

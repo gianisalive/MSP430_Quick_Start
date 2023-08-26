@@ -1,5 +1,5 @@
-#ifndef __NECTAR_GPIO_
-#define __NECTAR_GPIO_
+#ifndef __GPIO_
+#define __GPIO_
 
 #include "common.h"
 

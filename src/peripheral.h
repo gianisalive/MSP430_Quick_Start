@@ -1,5 +1,5 @@
-#ifndef __NECTAR_PERIPHERAL_
-#define __NECTAR_PERIPHERAL_
+#ifndef __PERIPHERAL_
+#define __PERIPHERAL_
 
 #include "common.h"
 

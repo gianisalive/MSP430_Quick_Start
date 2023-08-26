@@ -1,5 +1,5 @@
-#ifndef __NECTAR_COMMON_
-#define __NECTAR_COMMON_
+#ifndef __COMMON_
+#define __COMMON_
 #include <msp430.h>
 
 /****************************************************

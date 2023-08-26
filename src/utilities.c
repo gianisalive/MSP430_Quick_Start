@@ -16,8 +16,7 @@ char* charToHexString(char data[]) {
   }
   return hexStringBuffer;
 }
-// 48 - 57
-// 1023
+
 char* uint16ToString(int number) {
   static char intStringBuffer[6] = "00000";
   char strPosition = 4;
